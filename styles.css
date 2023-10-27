@@ -1,0 +1,25 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#outputText {
+    text-align: left;
+    margin-top: 20px;
+}
